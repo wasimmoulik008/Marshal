@@ -1,5 +1,5 @@
-  <h1 align="center">💠 ENCRYPTED YOUR SCRIPT 💠</h1>
-<p align="left"> <img src="https://tenor.com/bwVF7.gif" /> </p>
+![logo](https://github.com/wasimmoulik008/wasimmoulik008/blob/main/lv_0_20230712234709.gif)
+<img align="right" alt="coding" width="400" src="https://giphy.com/gifs/mic-donald-trump-anonymous-AeHLxU7TZXCPS">
 <h1 align="center">💠INSTALLATION 1.4💠</h1
 <h1 align="center">💠 COMMAND 🍁 💠</h1>
 rm -rf Marshal
